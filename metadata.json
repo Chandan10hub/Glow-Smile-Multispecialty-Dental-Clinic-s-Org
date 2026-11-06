@@ -1,0 +1,6 @@
+{
+  "name": "Gram Panchayat Kumbalgodu - Citizen Services Portal",
+  "description": "Official digital citizen services and appointment booking portal for Gram Panchayat Office Kumbalgodu, Bengaluru South, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
